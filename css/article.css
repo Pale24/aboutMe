@@ -1,0 +1,57 @@
+.container #maincont #mainleft article h1, .container #maincont #mainleft article h2, .container #maincont #mainleft article h3
+{
+	color: #FFF;
+	text-align: center;
+	background: #16468A;
+	padding: 1em;
+}
+
+.container #maincont #mainleft .art1
+{
+	width: 86%;
+	margin: 1em 0;
+	padding: 1.5em;
+	height: auto !important;
+	height: 400px;
+	background: #447BD4;
+	color: #FFF;
+	box-shadow: 5px 7px 0 #000;
+}
+
+.container #maincont #mainleft .art2
+{
+	width: 86%;
+	margin: 1em 0;
+	padding: 1.5em;
+	height: auto !important;
+	height: 400px;
+	background: #010a26;
+	color: white;
+	box-shadow: 5px 7px 0 #000;
+}
+
+.container #maincont #mainleft article p
+{
+	text-align: justify;
+}
+
+.container #maincont #mainleft article p a
+{
+	color: #FFD996;
+}
+
+.container #maincont #mainleft article p a:hover
+{
+	color: #A67115;
+	background: #FFFFE2;
+}
+
+.container #maincont #mainleft article .img1
+{
+	margin: 1em 1em 1em 0;
+	width:100%;
+	border: 1px solid #0000ff;
+	border-radius: 8px;
+	width: 200px;
+	float: left;
+}
